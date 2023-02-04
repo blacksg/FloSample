@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rkdtj/AndroidStudioProjects/FloSample/app/src/main/res/drawable/splash_background.xml" value="0.1485" />
         <entry key="..\:/Users/rkdtj/AndroidStudioProjects/FloSample/app/src/main/res/layout/activity_music_player.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/rkdtj/AndroidStudioProjects/FloSample/app/src/main/res/layout/activity_splash_screen.xml" value="0.10721493440968718" />
       </map>
     </option>
   </component>
